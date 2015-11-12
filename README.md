@@ -2,7 +2,7 @@
 
 Goal: prepare tidy data that can be used for later analysis
 
-#Steps:
+##Steps:
 1. Merges the training and the test sets to create one data set.
 2. Extracts only the measurements on the mean and standard deviation for each measurement. 
 3. Uses descriptive activity names to name the activities in the data set
@@ -12,8 +12,8 @@ Goal: prepare tidy data that can be used for later analysis
 
 Data source: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
-Download the data source, then unzipped the data
-Package require(): "data.table" and "reshape2"
+##Download the data source, then unzipped the data
+##Package require(): "data.table" and "reshape2"
 
 
 
